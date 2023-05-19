@@ -36,7 +36,7 @@ Anote e viva melhor!</p>
 </p>
 
 <br>
-<h2>🤝 esenvolvedores do Projeto</h2>
+<h2>🤝 Desenvolvedores do Projeto</h2>
 
 <h3>Product Manager / Scrum Master</h3>
 <ul>
