@@ -36,6 +36,34 @@ Anote e viva melhor!</p>
 </p>
 
 <br>
+<h2>🤝 esenvolvedores do Projeto</h2>
+
+<h3>Product Manager / Scrum Master</h3>
+<ul>
+  <li>Michel - <a href="@MichelAlves">@Michel Alves</a></li>
+</ul>
+
+<h3>Front-end</h3>
+<ul>
+  <li>João Kremer - <a href="@joaokremer">LinkedIn</a></li>
+  <li>Isabela Hyeda- <a href="@IsabelaHyeda">LinkedIn</a></li>
+</ul>
+
+<h3>Back-end</h3>
+<ul>
+  <li>Filipe Reis - <a href="@FilipeReis">LinkedIn</a></li>
+</ul>
+
+<h3>Design UI-UX</h3>
+<ul>
+  <li>Edson - <a href="@EdsoNb">LinkedIn</a></li>
+  <li>Jhenifer - <a href="@jheniferanacleto">LinkedIn</a></li>
+</ul>
+
+<h3>DevOps</h3>
+<ul>
+  <li>Maxwell - <a href="@MaxwellKremer">LinkedIn</a></li>
+</ul>
 
 ## 🚀 Recursos propostos:
 O projeto DiaNote tem como objetivo fornecer uma solução abrangente e intuitiva para o gerenciamento da diabetes. Algumas das propostas iniciais de recursos incluem:</li>
