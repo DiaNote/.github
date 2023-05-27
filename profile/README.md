@@ -41,6 +41,7 @@ Anote e viva melhor!</p>
 <h3>Product Manager / Scrum Master</h3>
 <ul>
   <li>Michel - <a href="@MichelAlves">LinkedIn</a></li>
+  <li>Thiago - <a href="@Thiago">LinkedIn</a><li>
 </ul>
 
 <h3>Front-end</h3>
