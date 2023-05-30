@@ -43,7 +43,6 @@ Product Manager / Scrum Master
 - Michel - [LinkedIn](https://www.linkedin.com/in/michelralves/)
 
 Front-end
-
 - João Kremer | [LinkedIn](https://www.linkedin.com/in/joaokremer/)
 - Isabela Hyeda- [LinkedIn](https://www.linkedin.com/in/isabelahyeda/)
 
