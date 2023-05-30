@@ -36,35 +36,27 @@ Anote e viva melhor!</p>
 </p>
 
 <br>
-<h2>🤝 Desenvolvedores do Projeto</h2>
 
-<h3>Product Manager / Scrum Master</h3>
-<ul>
-  <li>Michel - <a href="@MichelAlves">LinkedIn</a></li>
-  <li>Thiago - <a href="@Thiago">LinkedIn</a><li>
-</ul>
+## 🤝 Desenvolvedores do Projeto
 
-<h3>Front-end</h3>
-<ul>
-  <li>João Kremer - <a href="@joaokremer">LinkedIn</a></li>
-  <li>Isabela Hyeda- <a href="@IsabelaHyeda">LinkedIn</a></li>
-</ul>
+Product Manager / Scrum Master
+- Michel - [LinkedIn](https://www.linkedin.com/in/michelralves/)
 
-<h3>Back-end</h3>
-<ul>
-  <li>Filipe Reis - <a href="@FilipeReis">LinkedIn</a></li>
-</ul>
+Front-end
+- João Kremer | [LinkedIn](https://www.linkedin.com/in/joaokremer/)
+- Isabela Hyeda- [LinkedIn](https://www.linkedin.com/in/isabelahyeda/)
 
-<h3>Design UI-UX</h3>
-<ul>
-  <li>Edson - <a href="@EdsoNb">LinkedIn</a></li>
-  <li>Jhenifer - <a href="@jheniferanacleto">LinkedIn</a></li>
-</ul>
+Back-end
+- Filipe Reis - [LinkedIn](https://www.linkedin.com/in/filipe-leoni-5745551a8/)
 
-<h3>DevOps</h3>
-<ul>
-  <li>Maxwell - <a href="@MaxwellKremer">LinkedIn</a></li>
-</ul>
+Design UI-UX
+ - Edson - [LinkedIn](https://www.linkedin.com/in/edson-junior-ba43451ba/)
+ - Jhenifer - [LinkedIn](https://www.linkedin.com/in/jheniferanacleto/)
+
+DevOps
+- Maxwell - [Linkedin](https://www.linkedin.com/in/maxwell-kremer/)
+
+<br>
 
 ## 🚀 Recursos propostos:
 O projeto DiaNote tem como objetivo fornecer uma solução abrangente e intuitiva para o gerenciamento da diabetes. Algumas das propostas iniciais de recursos incluem:</li>
