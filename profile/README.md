@@ -92,10 +92,10 @@ O projeto DiaNote tem como objetivo fornecer uma solução abrangente e intuitiv
 
 ### 🔧 Backend
 <div style="display: inline_block">
-<img  align="center" alt="Python" width="115px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img  align="center" alt="FastAPI" width="115px" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
-<img  align="center" alt="Redux" width="150px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img  align="center" alt="Redux" width="110px" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+<img  align="center" alt="NodeJS" width="115px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+<img  align="center" alt="Express" width="135px" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+<img  align="center" alt="PostgreSQL" width="150px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img  align="center" alt="Docker" width="110px" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 
 </div>
 
