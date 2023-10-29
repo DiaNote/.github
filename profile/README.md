@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/DiaNote/.github/assets/100960828/d23425f7-c7f0-46b9-a8b4-7058445f9ea8" width="200px" alt="DiaNote"/>
+<img src="https://drive.google.com/file/d/1--NebuCFhqJZ6PWeeTBXoM2W11X9P1dV/view?usp=drivesdk" width="200px" alt="DiaNote"/>
 </div>
 
 <div align="center">
